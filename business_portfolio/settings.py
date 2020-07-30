@@ -25,7 +25,7 @@ SECRET_KEY = '%+=^xt^o-b@gsp8(k@-ab^3=@6aj-b5$z7de@0!w-xhq(-4drt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['papagoose08.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.eriklangner.com']
 
 
 # Application definition
