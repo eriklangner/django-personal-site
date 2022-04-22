@@ -8,7 +8,7 @@ mccabe==0.6.1
 Pillow==7.1.2
 pycodestyle==2.6.0
 pylint==2.5.3
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2020.1
 selenium==3.141.0
 six==1.15.0
